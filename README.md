@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">A Full-Stack Developer (MERN Stack) & Passionate Data Analyst</h3>
 
-<img src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" alt="Coding" width="1000" align="right">
+<img src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" alt="Coding" width="1000" height="200" align="right">
 
 - 🔭 I’m currently working on **ERP**
 
