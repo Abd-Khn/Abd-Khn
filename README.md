@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">A Full-Stack Developer (MERN Stack) & Passionate Data Analyst</h3>
-<img align = "right" alt = "Coding" src="![image](https://github.com/Abd-Khn/Abd-Khn/assets/92436828/1b9ff087-df34-4ee9-b6fa-e84366dfbcfc)" width="400">
+<img align = "right" alt = "Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fscrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.html&psig=AOvVaw3R35d8jsiru6O8MTz6T4Md&ust=1686761946837000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDbgojcwP8CFQAAAAAdAAAAABAs" width="400">
 
 
 - 🔭 I’m currently working on **ERP**
