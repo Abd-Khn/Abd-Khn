@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">A Full-Stack Developer (MERN Stack) & Passionate Data Analyst</h3>
+<img align = "right" alt = "Coding" src="![image](https://github.com/Abd-Khn/Abd-Khn/assets/92436828/1b9ff087-df34-4ee9-b6fa-e84366dfbcfc)" width="400">
+
 
 - 🔭 I’m currently working on **ERP**
 
