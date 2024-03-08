@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
-<h3 align="center">A Full-Stack Developer (MERN Stack) & Passionate Data Analyst</h3>
+<h3 align="center">A Flutter App Developer</h3>
 
-- 🔭 I’m currently working on **ERP**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS, Data Analysis**
+- 🌱 I’m currently learning **Flutter | Dart**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
-
-- 🤝 I’m looking for help with **Data Analysis**
+- 👯 I’m looking to collaborate on **App Development**
 
 - 📫 How to reach me **ak_fury7@yahoo.com**
 
