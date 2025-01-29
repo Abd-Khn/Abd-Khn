@@ -2,7 +2,7 @@
 <h3 align="center">A Flutter App Developer</h3>
 
 # 💫 About Me:
-I’m currently working on a cross platform mobile app made with Flutter.<br>I’m looking to collaborate on App Development<br>How to reach me ak_fury7@yahoo.com
+I’m currently working on Data Analysis using Python, Power BI, SQL and MS Excel.<br>I’m looking to collaborate on Data Analysis Projects<br>How to reach me ak_fury7@yahoo.com
 
 
 ## 🌐 Socials:
