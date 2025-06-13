@@ -2,7 +2,7 @@
 <h3 align="center">An AI Software Developer/Engineer</h3>
 
 # 💫 About Me:
-I’m currently working on Data Analysis, Workflow Automations, AI Agents and AI Integration.<br>How to reach me ak_fury7@yahoo.com
+I’m currently working on Data Analysis, Workflow Automations, AI Agents and AI Integration.<br>I am also exploring ML, DL, LLMs and NLP<br>You can reach out to me at abdkhn70@gmail.com
 
 
 ## 🌐 Socials:
