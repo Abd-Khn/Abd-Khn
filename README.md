@@ -6,7 +6,7 @@ I’m currently working on Data Analysis, Workflow Automations, AI Agents and AI
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/abdullahkhn](https://www.linkedin.com/in/abdullahkhn/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/abdullahkhn/)) 
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
