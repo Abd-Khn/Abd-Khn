@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
-<h3 align="center">A Flutter App Developer</h3>
+<h3 align="center">An AI Software Developer/Engineer</h3>
 
 # 💫 About Me:
-I’m currently working on Data Analysis using Python, Power BI, SQL and MS Excel.<br>I’m looking to collaborate on Data Analysis Projects<br>How to reach me ak_fury7@yahoo.com
+I’m currently working on Data Analysis, Workflow Automations, AI Agents and AI Integration.<br>How to reach me ak_fury7@yahoo.com
 
 
 ## 🌐 Socials:
