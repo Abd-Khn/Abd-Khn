@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
-<h3 align="center">An AI Software Engineer/Engineer</h3>
+<h3 align="center">A Backend/AI Software Engineer</h3>
 
 # 💫 About Me:
 I’m a backend engineer focused on building scalable systems, workflow automations, and AI-powered solutions.<br>My work revolves around AI agent development, LLM integrations, and intelligent backend architectures that connect data, automation, and machine intelligence.<br>I’m also exploring Machine Learning, Deep Learning, LLMs, and NLP to push the boundaries of AI-driven backend systems..<br>You can reach out to me at abdkhn70@gmail.com
