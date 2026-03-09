@@ -6,7 +6,8 @@ I’m a backend-focused full stack engineer focused on building scalable systems
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/abdullahkhn/)) 
+<a href="https://linkedin.com/in/abdullahkhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahkhn" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
@@ -15,9 +16,6 @@ I’m a backend-focused full stack engineer focused on building scalable systems
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
-</p>
-
-<a href="https://linkedin.com/in/www.linkedin.com/in/abdullahkhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdullahkhn" height="30" width="40" /></a>
 </p>
 
 ---
