@@ -2,8 +2,7 @@
 <h3 align="center">A Full Stack Engineer</h3>
 
 # 💫 About Me:
-I’m a backend-focused full stack engineer focused on building scalable systems, workflow automations, and AI-powered solutions.<br>My work revolves around AI agent development, LLM integrations, and intelligent backend architectures that connect data, automation, and machine intelligence.<br>I’m also exploring Machine Learning, Deep Learning, LLMs, and NLP to push the boundaries of AI-driven backend systems..<br>You can reach out to me at abdkhn70@gmail.com
-
+Full-Stack Engineer with a primary focus on backend engineering. I build the services that allow web applications to talk to smart contracts and handle real-time blockchain data. My daily work involves making sure the backend engine stays fast and stable as the platform scale. I focus on using indexing and middleware to make on-chain information easy for users to access. I prioritize writing clean, simple code to solve real-world problems in the Web3 and Fintech space.
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/abdullahkhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahkhn" height="30" width="40" /></a>
