@@ -17,6 +17,9 @@ I’m a backend-focused full stack engineer focused on building scalable systems
     alt="example" />
 </p>
 
+<a href="https://linkedin.com/in/www.linkedin.com/in/abdullahkhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdullahkhn" height="30" width="40" /></a>
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Abd-Khn&icon=0&color=0)](https://visitcount.itsvg.in)
 
